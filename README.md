@@ -38,4 +38,4 @@ The dataset utilized for this analysis was provided by the ExcelR Data Analysis 
 ##### To view the analyses conducted using Tableau and Power BI, please click on the link provided below to explore the work accomplished in both tools 
 [Analysis by Tableau](Tableau.md) 
 
-[Analysis by Power BI](PowerBi.md)
+[Analysis by Power BI](PowerBI.md)
