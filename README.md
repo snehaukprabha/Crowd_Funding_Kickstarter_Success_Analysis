@@ -18,9 +18,7 @@ Kickstarter is a crowdfunding platform that allows creators to raise funds for t
 
 The funding process on Kickstarter is all-or-nothing, meaning that a project must reach its funding goal within a specified time frame,  or no funds are collected, and the project does not move forward. If the project reaches or exceeds its funding goal, the creators receive the pledged funds to bring their idea to life. In return, backers may receive rewards or incentives based on the amount of money they contributed, such as early access to the product, special editions, or other exclusive perks.
 
-The Kickstarter platform is open to backers from anywhere in the world and to creators from many countries, including the US, UK, Canada,Australia, New Zealand, The Netherlands, Denmark, Ireland, Norway, Sweden, Spain, France, Germany, Austria, Italy, Belgium, Luxembourg, Switzerland and Mexico.
-
-<https://en.wikipedia.org/wiki/Kickstarter> 
+The Kickstarter platform is open to backers from anywhere in the world and to creators from many countries, including the US, UK, Canada,Australia, New Zealand, The Netherlands, Denmark, Ireland, Norway, Sweden, Spain, France, Germany, Austria, Italy, Belgium, Luxembourg, Switzerland and Mexico. [Know more about Kickstarter](https://en.wikipedia.org/wiki/Kickstarter)
 
 - If a project is successfully funded, Kickstarter applies a 5% fee to the funds collected. All pledges are processed securely by our third party payments partner, Stripe
 - These payment processing fees work out to roughly 3.5%. View the fee breakdowns. 
