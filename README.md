@@ -7,7 +7,7 @@ Crowdfunding is the practice of funding a project or venture by raising money fr
 - Individuals or groups who support the idea(Backers)
 - Moderating organization (the "platform") that brings the parties together to launch the idea(Kickstarter, GoFundMe etc).
 
-https://en.wikipedia.org/wiki/Crowdfunding
+[Read More](https://en.wikipedia.org/wiki/Crowdfunding)
 
 ### KICKSTARTER
 
