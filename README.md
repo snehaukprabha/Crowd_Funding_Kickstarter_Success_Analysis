@@ -34,6 +34,8 @@ The objective of this project is to conduct a comprehensive analysis of crowdfun
 The dataset utilized for this analysis was provided by the ExcelR Data Analysis Training Institute as part of an internship project. It consists of seven 4 Excel Workbooks, encompassing FactProject,DimCategory,DimCreator,Dimlocation data. The data spans from 2009 to 2019 consisting of around 3.65 lakh data.
 
 ##### To view the analyses conducted using Tableau and Power BI, please click on the link provided below to explore the work accomplished in both tools 
-[Analysis by Tableau](Tableau.md) 
+[Analysis using Tableau](Tableau.md)  
+[Analysis using Power BI](PowerBI.md)
 
-[Analysis by Power BI](PowerBI.md)
+## Tableau Story
+![](assets/Tableau_crowdfunding_story.gif)
