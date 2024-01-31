@@ -34,7 +34,7 @@ Leveraged DAX calculations in the Data View to populate the Calendar table field
 
 Organized the data set and create data model in model view 
 
-//image// 
+![datamodel](assets/images/data_model.png)
 
 #### 4. Data Transformation 
 
@@ -48,19 +48,19 @@ Supplementary DAX expressions, used for creating different measures for the anal
 In the analysis conducted over the tenure of 2009 to 2019 on the Kickstarter platform, a total of 365,892 projects were launched. The success rate on Kickstarter stood at 38.35%, reflecting the percentage of projects that achieved their funding goals. Across 169 different categories, 140,313 projects were deemed successful. These successful projects collectively raised an impressive amount of $3.48 billion. Notably, the median backers count for these successful projects was 74 per project, underscoring the substantial community support behind each venture. The platform typically witnesses a project achieving success in an average duration of around 32 days.
 
 ##### 7.1. Total number of projects based on outcome
-//image// 
+![projectbyoutcome](assets/images/PB-1.png)
 
 In the analysis of project outcomes, a significant portion, comprising 51.45% of the total projects, unfortunately ended in failure. On a positive note, 38.35% of projects achieved success, while 8.88% were cancelled. Live projects currently account for 0.86%, with 0.41% suspended and 0.05% purged. These statistics provide a comprehensive overview of the diverse outcomes experienced by projects on the Kickstarter platform.
 ##### 7.2. No of Project by Country
-//image// 
+![projectbycountry](assets/images/PB-2.png) 
 	
 In the analysis encompassing 22 countries on Kickstarter, I found that most projects (76.12%) come from the United States. Great Britain follows with 9.31%, Canada with 4.04%, Australia with 2.12%, and Germany with 1.29%. All other countries contribute less than 1% of new projects to the platform. This highlights how the United States is a major player in shaping the Kickstarter project scene 
 ##### 7.3. Total No of Projects By Year-Quarter -Month 
-//growth % image// 
 
+![projectbycountry](assets/images/PB-3.png) 
 From 2009 to 2014, the number of projects on Kickstarter was going up, which is good. But starting in 2015, things changed, and the project count started going down each year. There was a small positive bump in 2017, with a 2.4% increase, but overall, from 2015 to 2019, the number of projects went down.
 
-//year wise project chart// 
+
 
 In 2014, the maximum number of projects reached its peak at 59,154, while the lowest count was observed in 2009. When analysing project counts by quarter, the highest numbers were typically seen in the 3rd quarter, while the lowest were in the 4th quarter. On a monthly basis, July recorded the highest project count, while December consistently had the fewest projects. 
 
@@ -68,16 +68,17 @@ Notably, from 2009 to 2011, the project count tended to increase towards the end
 Adding to this, when examining the success trend from 2009 to 2019, the maximum success was observed in 2014 with a success percentage of 13.73%, showcasing a peak in project achievements. In contrast, the minimum success rate occurred in 2009, standing at 0.41%, indicating a lower rate of project success during that year. 
 
 ##### 7.4. Top Categories with maximum number of projects 
-//image// 
+![projectbycategory](assets/images/PB-4.png) 
 
 Looking at different Category of projects on Kickstarter, product design takes the lead with the highest project count at 22,277. Following closely, table-top games boast 15,618 projects, music with 15,194, documentary with 14,076, and video games with 11,284. These figures outline the popularity and diversity of projects across various categories on the platform 
 
 ##### 7.5. Top 5 Category based on success % 
-//image// 
+![successs%projectbycategory](assets/images/PB-5.png) 
 
 Among the diverse categories on Kickstarter, Tabletop Games stand out with the highest success percentage, reaching 6.95% of projects. Following closely, Product Design achieves a success rate of 6.64%, while Music, Shorts, and Documentary categories also demonstrate notable success rates of 5.7%, 4.38%, and 3.99%, respectively. These figures highlight the varying success rates across different project categories, with Tabletop Games leading the pack in terms of successful projects on the platform 
 ##### 7.6. Top Projects By Backers Count and Amount raised 
-//image// 
+![successs%projectbycategory](assets/images/PB-6-2.png) 
+![successs%projectbycategory](assets/images/PB-6-1.png)  
 
 Exploding Kittens, a project in the table-top games category, garnered an impressive 219,382 backers, showcasing significant interest in this category. Interestingly, other projects ranking below it also fall under film, product design, and table-top games categories, underscoring the sustained interest of backers in these specific project types.
 
@@ -88,11 +89,11 @@ In conclusion, the strong support for projects like Exploding Kittens in tableto
 
 ##### 7.7. Goal range vs Success percentage 
 
-	//image//
+![successs%projectbycategory](assets/images/PB-7.png) 
 Breaking down the Kickstarter projects based on funding goals provides valuable insights into success rates. Projects with goals in the 0-1K range exhibit a success rate of 22.16%, while those with goals ranging from 1K to 10K see a notably higher success percentage at 56.26%. In the 10K to 100K goal range, the success rate stands at 21.02%. As we move into higher funding brackets, the success rates decrease, with the 100K to 1M range showing a success percentage of 0.55%, and the 1M to 10M range having the lowest success rate at 0.01%. These figures underscore the influence of funding goals on project success, with smaller goals demonstrating a higher likelihood of achieving funding targets 
 
 ##### 7.8. Staffpick Projects Vs Success
-//image// 
+![successs%projectbycategory](assets/images/PB-8.png) 
 
 Examining the distribution of projects on Kickstarter, approximately 9% of total projects are Staffpicked, while the remaining 91% do not receive this recognition. However, when evaluating success rates, a significant disparity becomes evident. Staffpicked projects exhibit an impressive success rate of 73.57%, which is more than double the success rate of non-Staffpicked projects, standing at 30.84%. This substantial difference underscores the impactful role of Staffpicking in enhancing the likelihood of a project's success on the platform, demonstrating the value and influence of this recognition. 
 
