@@ -39,3 +39,7 @@ The dataset utilized for this analysis was provided by the ExcelR Data Analysis 
 
 ## Tableau Story
 ![](assets/Tableau_crowdfunding_story.gif)
+
+## PowerBI Dashboard
+![](assets/images/Powerbi_dashboard.gif)
+
